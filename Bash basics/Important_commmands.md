@@ -68,7 +68,7 @@ drwxrwxr-x  6 pratham82 pratham82 4096 Aug 24 19:17 Django-projects
 
 **cd ..** Go up a directory
 
-**cd ~** Go to the home directory
+**cd \~** Go to the home directory
 
 **pushd and poopd:** These commands will keep track of what directory you was in previously, For going from one directory to another directory you have to use **pushd** and directory name, Whens you type **popd** it will take you to the last directory you were in.
 
