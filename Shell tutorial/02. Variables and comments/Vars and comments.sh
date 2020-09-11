@@ -1,4 +1,4 @@
-
+#! /bin/bash
 # This is a comment
 echo 'This a single line' # This is also an comment
 
